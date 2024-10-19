@@ -1,14 +1,10 @@
 # Calculator
 ## Screenshot
-<table>
-  <tr>
-    <td><img src="![Screenshot_20241020_031130](https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0)" width="400"></td>
-    <td><img src="![Screenshot_20241020_031104](https://github.com/user-attachments/assets/1e44d61e-c965-4c31-bba5-5912d4fe4327)" width="400"></td>
-    <td><img src="![Screenshot_20241020_031045](https://github.com/user-attachments/assets/dc228360-9e5f-44ae-a567-de9f842f1f1d)" width="400"></td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/dc228360-9e5f-44ae-a567-de9f842f1f1d" width="300" alt="Screenshot_20241020_031045">
 
-<img src="https://github.com/user-attachments/assets/dc228360-9e5f-44ae-a567-de9f842f1f1d" width="50%" alt="Screenshot_20241020_031045">
+<img src="https://github.com/user-attachments/assets/1e44d61e-c965-4c31-bba5-5912d4fe4327" width="300" alt="Screenshot_20241020_031104">
+
+<img src="https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0" width="300" alt="Screenshot_20241020_031130">
 
 
 
