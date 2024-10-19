@@ -1,11 +1,9 @@
 # Calculator
-## Screenshot
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/dc228360-9e5f-44ae-a567-de9f842f1f1d" width="300" style="margin-bottom: 20px;" alt="Screenshot_20241020_031045">
-  <img src="https://github.com/user-attachments/assets/1e44d61e-c965-4c31-bba5-5912d4fe4327" width="300" style="margin-bottom: 20px;" alt="Screenshot_20241020_031104">
-  <img src="https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0" width="300" style="margin-bottom: 20px;" alt="Screenshot_20241020_031130">
-</div>
+## Screenshot
+<img src="https://github.com/user-attachments/assets/dc228360-9e5f-44ae-a567-de9f842f1f1d" width="300" alt="Screenshot_20241020_031045">
+<img src="https://github.com/user-attachments/assets/1e44d61e-c965-4c31-bba5-5912d4fe4327" width="300" alt="Screenshot_20241020_031104">
+<img src="https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0" width="300" alt="Screenshot_20241020_031130">
 
 ## Usage
 The usage of the application is self-explanatory. However, the following steps can be followed :
