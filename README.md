@@ -11,10 +11,10 @@ The application provides basic calculation functionality – addition, subtracti
 ## Usage
 The usage of the application is self-explanatory. However, the following steps can be followed :
 
-Enter a number using the number pad provided
-Enter an operation using the number pad
-Enter the second number 
-Press the ‘=’ button to perform the calculation
-Use the backspace button to delete the last character
-Enter the first number before entering an operation.
-Use ‘C’ button to clear all the fields
+* Enter a number using the number pad provided
+* Enter an operation using the number pad
+* Enter the second number 
+* Press the ‘=’ button to perform the calculation
+* Use the backspace button to delete the last character
+* Enter the first number before entering an operation.
+* Use ‘C’ button to clear all the fields
