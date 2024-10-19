@@ -1,7 +1,7 @@
 # Calculator
 ## Screenshot
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20 px;">
   <img src="https://github.com/user-attachments/assets/dc228360-9e5f-44ae-a567-de9f842f1f1d" width="30%" alt="Screenshot_20241020_031045">
   <img src="https://github.com/user-attachments/assets/1e44d61e-c965-4c31-bba5-5912d4fe4327" width="30%" alt="Screenshot_20241020_031104">
   <img src="https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0" width="30%" alt="Screenshot_20241020_031130">
