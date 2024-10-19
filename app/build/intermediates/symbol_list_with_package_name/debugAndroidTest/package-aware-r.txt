@@ -1,0 +1,3 @@
+com.example.androidcalculator.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
