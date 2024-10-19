@@ -1,4 +1,7 @@
-# Calculator
+# Android Calculator
+
+## Features
+The application provides basic calculation functionality – addition, subtraction, multiplication, and division. It includes buttons for numbers 0-9, decimal point, 'Clear', and basic arithmetic operations. The layout is implemented using a LinearLayout with a GridLayout for the button arrangement. The main components used are TextViews for displaying results and Buttons for user input.
 
 ## Screenshot
 <img src="https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0" width="300" alt="Screenshot_20241020_031130">
