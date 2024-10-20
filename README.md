@@ -4,7 +4,7 @@
 The application provides basic calculation functionality – addition, subtraction, multiplication, and division. It includes buttons for numbers 0-9, decimal point, 'Clear', and basic arithmetic operations. The layout is implemented using a LinearLayout with a GridLayout for the button arrangement. The main components used are TextViews for displaying results and Buttons for user input.
 
 ## Working
-https://github.com/user-attachments/assets/a4d0bae5-6a43-4c37-91f3-83d419fce96d
+https://github.com/user-attachments/assets/5e4ffca8-764d-4aaa-9f62-39e56f34ac11
 
 ## Screenshot
 <img src="https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0" width="300" alt="Screenshot_20241020_031130">
