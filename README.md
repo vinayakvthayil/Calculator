@@ -18,3 +18,6 @@ The usage of the application is self-explanatory. However, the following steps c
 * Use the backspace button to delete the last character
 * Enter the first number before entering an operation.
 * Use ‘C’ button to clear all the fields
+
+## Contact
+Vinayak V Thayil, S7 CSE B, AM.EN.U4CSE21161
