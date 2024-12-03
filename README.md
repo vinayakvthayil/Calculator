@@ -25,6 +25,12 @@ The Android Calculator is a basic calculator application developed using **Andro
 - **Android Studio**
   
 ## Screenshot
-<img src="https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0" width="300" alt="Screenshot_20241020_031130">
-<img src="https://github.com/user-attachments/assets/dc228360-9e5f-44ae-a567-de9f842f1f1d" width="300" alt="Screenshot_20241020_031045">
-<img src="https://github.com/user-attachments/assets/1e44d61e-c965-4c31-bba5-5912d4fe4327" width="300" alt="Screenshot_20241020_031104">
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/f893eb98-1623-4dbf-8d80-81ab64cf1fd0" alt="Screenshot_20241020_031130" width="300" height="600"></td>
+      <td><img src="https://github.com/user-attachments/assets/dc228360-9e5f-44ae-a567-de9f842f1f1d" alt="Screenshot_20241020_031045" width="300" height="600"></td>
+      <td><img src="https://github.com/user-attachments/assets/1e44d61e-c965-4c31-bba5-5912d4fe4327" alt="Screenshot_20241020_031104" width="300" height="600"></td>
+    </tr>
+  </tbody>
+</table>
